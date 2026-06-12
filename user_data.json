@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Shruti",
+        "preferences": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "recommendations": [
+            "Avengers Endgame",
+            "Interstellar",
+            "Inception",
+            "John Wick"
+        ]
+    },
+    {
+        "name": "Harsh",
+        "preferences": [
+            "Romance",
+            "Action"
+        ],
+        "recommendations": [
+            "Avengers Endgame",
+            "Titanic",
+            "John Wick"
+        ]
+    }
+]
